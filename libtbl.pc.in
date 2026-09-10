@@ -1,0 +1,11 @@
+prefix=@PREFIX@
+exec_prefix=${prefix}
+libdir=@LIBDIR@
+includedir=@INCDIR@
+
+Name: libtbl
+Description: Print arrays of C structs as tables, JSON, CSV or XML
+URL: https://github.com/ionos-cloud/libtbl
+Version: @VERSION@
+Cflags: -I${includedir}
+Libs: -L${libdir} -ltbl

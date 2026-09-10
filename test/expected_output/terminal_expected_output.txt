@@ -1,5 +1,6 @@
-Student Name  Age  Marks  Country         
- Alice         [32m 25  [0m[32m   90  [0mUnited Kingdom  
- Bob           [32m 28  [0m[32m   85  [0mAustralia       
- Charles       [32m 23  [0m[32m   68  [0mDenmark         
- Frank         [32m 24  [0m[32m   70  [0mIndia           
+Student Name Age Marks Country       
+─────────────────────────────────────
+Alice         25    90 United Kingdom
+Bob           28    85 Australia     
+Charles       23    68 Denmark       
+Frank         24    70 India         
